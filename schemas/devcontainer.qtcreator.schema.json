@@ -35,6 +35,7 @@
 						},
 						"kits": {
 							"type": "array",
+							"description": "A list of kits",
 							"items": {
 								"type": "object",
 								"properties": {
